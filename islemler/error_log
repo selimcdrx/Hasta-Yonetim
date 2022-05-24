@@ -1,0 +1,4 @@
+[17-May-2022 23:56:41 Europe/Istanbul] PHP Warning:  move_uploaded_file(../gecici/6640631652821001musteritablosu.xlsx): failed to open stream: No such file or directory in /home/selimyra/nazark.selim-kurt.com.tr/islemler/ajax.php on line 220
+[17-May-2022 23:56:41 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpTv71SE' to '../gecici/6640631652821001musteritablosu.xlsx' in /home/selimyra/nazark.selim-kurt.com.tr/islemler/ajax.php on line 220
+[18-May-2022 00:19:44 Europe/Istanbul] PHP Warning:  move_uploaded_file(../gecici/3530701652822384musteritablosu.xlsx): failed to open stream: No such file or directory in /home/selimyra/nazark.selim-kurt.com.tr/islemler/ajax.php on line 220
+[18-May-2022 00:19:44 Europe/Istanbul] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpFyJIZG' to '../gecici/3530701652822384musteritablosu.xlsx' in /home/selimyra/nazark.selim-kurt.com.tr/islemler/ajax.php on line 220

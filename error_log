@@ -1,0 +1,48 @@
+[17-May-2022 23:37:29 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:37:48 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:05 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:16 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
+[17-May-2022 23:38:41 Europe/Istanbul] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php:18
+Stack trace:
+#0 /home/selimyra/nazark.selim-kurt.com.tr/header.php(2): include()
+#1 /home/selimyra/nazark.selim-kurt.com.tr/index.php(2): include('/home/selimyra/...')
+#2 {main}
+  thrown in /home/selimyra/nazark.selim-kurt.com.tr/islemler/baglan.php on line 18
